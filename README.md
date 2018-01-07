@@ -5,7 +5,7 @@ https://github.com/fou-foo/R-Coursera/blob/master/DevDataProducts/mapswithleafle
 https://github.com/fou-foo/R-Coursera/blob/master/DevDataProducts/mapswithleaflet.html
 
 An analysis on VAT-SAT https://raw.githubusercontent.com/fou-foo/R-Coursera/master/DevDataProducts/plotly/easier_plots_.html
-Proyect final of specialization https://foufoo.shinyapps.io/projectnlp/
+Proyect final of specialization https://foufoo.shinyapps.io/projectnlp/ context https://github.com/fou-foo/R-Coursera/blob/master/NLP/Milestone_report.html
 
 # Diploma in data mining (UNAM)
 https://github.com/fou-foo/Diploma/blob/master/DB/final_db.html (R y mysql)
@@ -13,6 +13,7 @@ https://github.com/fou-foo/Diploma/blob/master/DM/f.md (my first neuronal net)
 https://github.com/fou-foo/Diploma/blob/master/Multivariado/Practica2/practica2_.md (PCA)
 https://github.com/fou-foo/Diploma other works
 final work https://www.overleaf.com/read/bshhzyjwcjps LDA
+
 # Advance R 
 https://github.com/fou-foo/AdvanceR/blob/master/Visual/maps.pdf (a geom_ function was created for the visualization)
 https://github.com/fou-foo/AdvanceR/blob/master/AdvanceR/oop_output.html (poo in R)
