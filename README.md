@@ -33,5 +33,16 @@ https://foufoo.shinyapps.io/app1/ analysis of VAT returns on SAT
 https://foufoo.shinyapps.io/appgrafo/ first experimentation in graph visualization
 https://foufoo.shinyapps.io/datalab2/ first map with a data set of 5 gb  
 
-# https://www.facebook.com/groups/1906504086251604/?ref=br_rs
+# [Erderly R gruoup] (https://www.facebook.com/groups/1906504086251604/?ref=br_rs)
 https://github.com/fou-foo/Programacion_R/blob/master/histograma_medias.md nice histogram
+
+# My last work in SAT a complex ETL with sql 
+https://github.com/fou-foo/SAT
+
+
+# test for OPI an ECOBICI
+https://github.com/fou-foo/opi_test/blob/master/exa_opi.html map interactive
+https://github.com/fou-foo/opi_test/blob/master/exa_opi.pdf report
+
+# test for datalab 
+https://github.com/fou-foo/DataLab/blob/master/datalab.md with map
