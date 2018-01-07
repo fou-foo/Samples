@@ -47,3 +47,10 @@ https://foufoo.shinyapps.io/appgrafo/ first experimentation in graph visualizati
 
 # test for datalab 
 https://github.com/fou-foo/DataLab/blob/master/datalab.md with map
+
+# Homework in tex and R 
+https://www.overleaf.com/read/bgsgzhtqwjdf
+https://www.overleaf.com/read/myzygdzmwtyk
+https://www.overleaf.com/read/swnqkjtpmygt all combination of variables in a linear model
+https://www.overleaf.com/read/yvxwbhcsbpwp reliability in banknotes mexicans
+https://www.overleaf.com/read/cfzpcnqbhqrd  first steps in survival analysis
