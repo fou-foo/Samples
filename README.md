@@ -24,7 +24,7 @@ https://github.com/fou-foo/MCE/blob/master/First/InferenciaEstadistica/tarea1.md
 https://github.com/fou-foo/MCE/blob/master/First/InferenciaEstadistica/ejercicioWeibull.md (simulation "a pie")
 https://github.com/fou-foo/MCE/blob/master/First/InferenciaEstadistica/tarea3estadistica.pdf (another statistical homework)
 https://github.com/fou-foo/MCE/tree/master/First/AlgebraMatricial (all matrix algebra tasks in tex)
-
+https://fou-foo.shinyapps.io/likelihoodratiotest/ final proyect inference
 # Dashboards
 
 https://fou-foo.shinyapps.io/likelihoodratiotest/ Likelihood ratio test app
