@@ -1,4 +1,4 @@
-# Samples in R (cousera)
+# Samples in R 
 https://github.com/fou-foo/R-Coursera/blob/master/Regression_models/cars.md  (nice correlogram)
 
 https://github.com/fou-foo/R-Coursera/blob/master/DevDataProducts/mapswithleaflet.md (my first map) and its dynamic improvement
