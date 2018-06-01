@@ -18,7 +18,6 @@ final work https://www.overleaf.com/read/bshhzyjwcjps LDA
 https://github.com/fou-foo/AdvanceR/blob/master/Visual/maps.pdf (a geom_ function was created for the visualization)
 https://github.com/fou-foo/AdvanceR/blob/master/AdvanceR/oop_output.html (poo in R)
 My first package in github https://github.com/fou-foo/FouR.git FouR
-Proyecto final de ciencia de datos 'Una mejora a SWM en dimensiones altas [DWD](https://joseramirezcimat.shinyapps.io/DWD1/)'
 
 
 # MCE 
@@ -27,6 +26,10 @@ https://github.com/fou-foo/MCE/blob/master/First/InferenciaEstadistica/ejercicio
 https://github.com/fou-foo/MCE/blob/master/First/InferenciaEstadistica/tarea3estadistica.pdf (another statistical homework)
 https://github.com/fou-foo/MCE/tree/master/First/AlgebraMatricial (all matrix algebra tasks in tex)
 https://fou-foo.shinyapps.io/likelihoodratiotest/ final proyect inference
+
+Proyecto final de ciencia de datos 'Una mejora a SWM en dimensiones altas [DWD](https://joseramirezcimat.shinyapps.io/DWD1/)'
+
+
 # Dashboards
 
 https://fou-foo.shinyapps.io/likelihoodratiotest/ Likelihood ratio test app
