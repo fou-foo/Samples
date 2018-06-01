@@ -18,6 +18,7 @@ final work https://www.overleaf.com/read/bshhzyjwcjps LDA
 https://github.com/fou-foo/AdvanceR/blob/master/Visual/maps.pdf (a geom_ function was created for the visualization)
 https://github.com/fou-foo/AdvanceR/blob/master/AdvanceR/oop_output.html (poo in R)
 My first package in github https://github.com/fou-foo/FouR.git FouR
+Proyecto final de ciencia de datos 'Una mejora a SWM en dimensiones altas [DWD](https://joseramirezcimat.shinyapps.io/DWD1/)'
 
 
 # MCE 
