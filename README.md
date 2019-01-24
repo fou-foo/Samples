@@ -28,6 +28,7 @@ https://github.com/fou-foo/MCE/tree/master/First/AlgebraMatricial (all matrix al
 https://fou-foo.shinyapps.io/likelihoodratiotest/ final proyect inference
 
 Final project of data science 'Una mejora a SWM en dimensiones altas [DWD](https://joseramirezcimat.shinyapps.io/DWD1/)'
+
 SPI 2019 [prototipo](https://joseramirezcimat.shinyapps.io/Spi2019/)
 
 # Dashboards
