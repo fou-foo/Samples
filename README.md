@@ -27,8 +27,8 @@ https://github.com/fou-foo/MCE/blob/master/First/InferenciaEstadistica/tarea3est
 https://github.com/fou-foo/MCE/tree/master/First/AlgebraMatricial (all matrix algebra tasks in tex)
 https://fou-foo.shinyapps.io/likelihoodratiotest/ final proyect inference
 
-Proyecto final de ciencia de datos 'Una mejora a SWM en dimensiones altas [DWD](https://joseramirezcimat.shinyapps.io/DWD1/)'
-
+Final project of data science 'Una mejora a SWM en dimensiones altas [DWD](https://joseramirezcimat.shinyapps.io/DWD1/)'
+SPI 2019 [prototipo](https://joseramirezcimat.shinyapps.io/Spi2019/)
 
 # Dashboards
 
